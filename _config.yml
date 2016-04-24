@@ -121,8 +121,8 @@ social:
   #LinkLabel: Link
   GitHub: https://github.com/bwangel23/
   V2EX: http://v2ex.com/member/bwangel
-  zhihu: https://www.zhihu.com/people/michael-tsui
-  stackoverflow: http://stackoverflow.com/users/5161084/yundong-xu
+  知乎: https://www.zhihu.com/people/michael-tsui
+  Stack Overflow: http://stackoverflow.com/users/5161084/yundong-xu
 
 
 # Social Links Icons
@@ -131,13 +131,13 @@ social:
 #   Key is the name of the item and value is the name of FontAwsome icon. Key is case-senstive.
 #   When an globe mask icon presenting up means that the item has no mapping icon.
 social_icons:
-  enable: true
+  enable: false
   # Icon Mappings.
   # KeyMapsToSocalItemKey: NameOfTheIconFromFontAwesome
   GitHub: GitHub
   V2EX: V2EX
   zhihu: zhihu
-  stackoverflow: stackoverflow
+  stackoverflow: Stack Overflow
 
 
 # Sidebar Avatar
